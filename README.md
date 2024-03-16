@@ -119,6 +119,10 @@ On Sat, 9th of March-2024, these tasks are completed:
 - Created the "Lab5_ECE6780Embedded_SR24" GitHub repo.
 - Created the "lab05" project using STM32CubeMX Software
 
+On Sat, 16th of March-2024, these tasks are completed:<br>
+- After the lab yesterday, I completed some part of the lab's 1st task.
+- Everything looks good so far. I will know once I test my code in the end.
+
 <ins>2nd Week Notes:</ins> <br>
 By March 21st, 2024 :<br>
 - 
