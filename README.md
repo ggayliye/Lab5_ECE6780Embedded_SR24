@@ -124,8 +124,12 @@ On Sat, 16th of March-2024, these tasks are completed:<br>
 - Everything looks good so far. I will know once I test my code in the end.
 
 <ins>2nd Week Notes:</ins> <br>
-By March 21st, 2024 :<br>
-- 
+By March 17st, 2024 :<br>
+- Completed the first part. I used 5kOhms resistors to be adjusted by two potentiometers.
+- One of the challenges was figuring out TC flag. It was not set on the section of #7, Part1.
+- I used TCR flag instead, as I used "reload" bit on the CR2.
+- Other thing I figured out was assigning I2Cx_RXDR as the received data should be released
+so that TCR can be flagged in the end. It was not mentioned on the lab manual.
 
 ## Testing
 No Unit Test files are created as the nature of the project. Manual testing 
