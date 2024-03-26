@@ -131,19 +131,31 @@ By March 17st, 2024 :<br>
 - Other thing I figured out was assigning I2Cx_RXDR as the received data should be released
 so that TCR can be flagged in the end. It was not mentioned on the lab manual.
 
+By March 22nd, 2024 :<br>
+- I finished the lab. The second part was a challenging lab for me. I spent extra 6-7 hours to complete this lab.
+
+
 ## Testing
 No Unit Test files are created as the nature of the project. Manual testing 
 are performed in each step to ensure code improvements. Check "Testing Instructions"
 section below.
 
 # Time Expenditures:
-<pre>Lab05: Predicted Hours: 12h		Actual Hours:	h		 </pre>
+<pre>Lab05: Predicted Hours: 12h		Actual Hours:	13h		 </pre>
 
 The actual hours recorded on top reflect the time spent for the assignment including the time 
 spent in labs. It excludes time spent reading and understanding the lab assignment instructions 
 at the beginning of the lab (pre-lab work).
 
 # Comments to Evaluators:
+
+I checked off the first part with the TA. However,
+the TA allowed me to work on the 2nd part of the lab until the end of the day
+on Friday the 22nd with an option of sending a video demonstration.
+I sent my video to the TA on time. I am also adding a link to my demonstration video below:
+
+Youtube link for Part 2 Demonstration : https://www.youtube.com/watch?v=H4dGtPt76pc&ab_channel=KyleG.Gayliyev
+
 
 I am uploading the full project files in this repo. 
 Therfore, you may not need some of the information below to
